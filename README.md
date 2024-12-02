@@ -1,4 +1,4 @@
-# flapkap_task
+# Flutter challenge
 
 A new Flutter project.
 
